@@ -1,9 +1,7 @@
 ' --------------------------------- Danger House ---------------------------
 '
-'         Progamming By: Toby Glaze w/ contributions from Jason Jackson
-'         Program Testers: Micky, Baldy, & ME (obviously)
+'         Progamming By: Toby Glaze
 '
-'         AN Aint Got Not Productions Generation
 '
 ' --------------------------------------------------------------------------
 '         Size: 130K in .bas format
@@ -12,10 +10,7 @@
 '         Command Concentration: Select Case, Line, Circle, Paint, Locate,
 '                                Print, Key, For-Next, Goto, If, Then
 ' --------------------------------------------------------------------------
-'        For More AGN Products Please Email 'The President' Of AGN
-'                       tglaze@hotmail.com
-'                 http://www.geocities.com/TimesSquare/Stadium/4507
-' ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 
 
 
