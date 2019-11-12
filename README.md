@@ -2,6 +2,9 @@
 Try to escape a mysterious house (Quick Basic 4.5 circa 1993)
 This project is very old, but still runs great on a BASIC engine like QB 4.5
 
+## Preview
+<img src="img/preview.png" width="400">
+
 ## How to play
 There are instructions inside the game to show you how to navigate - including a walkthrough (cheat) if you get stuck
 
